@@ -2,7 +2,7 @@ import  logging
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ContentType
 
-API_TOKEN = '7526459851:AAH0FPp70mwGncEANHxgAUJpEG5nx4cZDSE'
+API_TOKEN = 'Yout Telegram bot token here'
 # Configure logging
 
 logging.basicConfig(level=logging.INFO)
